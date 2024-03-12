@@ -2,7 +2,7 @@
   &-header {
     &-title {
       color: $default-shade;
-      font-family: $sans-serif;
+      font-family: 'Courier New', Courier, monospace;
       font-size: 4rem;
       margin: 1rem 0;
       text-align: center;
@@ -18,7 +18,7 @@
 
   &-clouds {
     text-align: center;
-    font-family: $sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 
     a {
       display: inline-block;
@@ -46,7 +46,7 @@
       margin: 2rem 0 0.5rem;
       
       a {
-        font-family: $sans-serif;
+        font-family: 'Courier New', Courier, monospace;
         color: $default-color;
       }
     }
